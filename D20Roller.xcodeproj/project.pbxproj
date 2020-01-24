@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		88B64AE523DA77F400D2A383 /* d20.png in Resources */ = {isa = PBXBuildFile; fileRef = 88B64AE423DA77F400D2A383 /* d20.png */; };
 		88C9627A23D78AD0001CDCC9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C9627923D78AD0001CDCC9 /* AppDelegate.swift */; };
 		88C9627C23D78AD0001CDCC9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C9627B23D78AD0001CDCC9 /* SceneDelegate.swift */; };
 		88C9627E23D78AD0001CDCC9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 88C9627D23D78AD0001CDCC9 /* ViewController.swift */; };
@@ -40,6 +41,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		88B64AE423DA77F400D2A383 /* d20.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = d20.png; sourceTree = "<group>"; };
 		88C9627623D78AD0001CDCC9 /* D20Roller.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = D20Roller.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		88C9627923D78AD0001CDCC9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		88C9627B23D78AD0001CDCC9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -120,6 +122,7 @@
 				88ECD2AB23D7C17F0009FFB0 /* rolldice.mp3 */,
 				88ECD2AA23D7C17E0009FFB0 /* torpedo.mp3 */,
 				88ECD2AC23D7C17F0009FFB0 /* zfanfare.mp3 */,
+				88B64AE423DA77F400D2A383 /* d20.png */,
 				88C9628423D78AD1001CDCC9 /* LaunchScreen.storyboard */,
 				88C9628723D78AD1001CDCC9 /* Info.plist */,
 			);
@@ -256,6 +259,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				88B64AE523DA77F400D2A383 /* d20.png in Resources */,
 				88C9628623D78AD1001CDCC9 /* LaunchScreen.storyboard in Resources */,
 				88ECD2AF23D7C17F0009FFB0 /* rolldice.mp3 in Resources */,
 				88C9628323D78AD1001CDCC9 /* Assets.xcassets in Resources */,
